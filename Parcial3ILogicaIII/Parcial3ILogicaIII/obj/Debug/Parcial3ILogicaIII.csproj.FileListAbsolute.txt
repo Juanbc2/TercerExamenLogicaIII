@@ -1,0 +1,10 @@
+c:\users\juan\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\bin\Debug\Parcial3ILogicaIII.exe.config
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\bin\Debug\Parcial3ILogicaIII.exe
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\bin\Debug\Parcial3ILogicaIII.pdb
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\obj\Debug\Parcial3ILogicaIII.csprojResolveAssemblyReference.cache
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\obj\Debug\Parcial3ILogicaIII.Form1.resources
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\obj\Debug\Parcial3ILogicaIII.Properties.Resources.resources
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\obj\Debug\Parcial3ILogicaIII.csproj.GenerateResource.Cache
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\obj\Debug\Parcial3ILogicaIII.exe
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\obj\Debug\Parcial3ILogicaIII.pdb
+C:\Users\JUAN\documents\visual studio 2013\Projects\Parcial3ILogicaIII\Parcial3ILogicaIII\obj\Debug\Parcial3ILogicaIII.Form2.resources
